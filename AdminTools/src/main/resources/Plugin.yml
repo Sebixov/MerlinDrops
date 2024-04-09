@@ -1,0 +1,4 @@
+name: AdminTools
+version: '${project.version}'
+main: me.sebixov.admintools.AdminTools
+api-version: '1.20'
